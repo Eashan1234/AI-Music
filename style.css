@@ -15,10 +15,10 @@ body{
 }
 
 canvas {
-    border-width:10px;
+    border:10px solid white;
     border-radius:20px;
-    border-color:red;
     box-shadow:5px 5px 10px green;
+    margin-top:80px;
 }
 
 #song {
